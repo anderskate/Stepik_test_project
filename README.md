@@ -1,7 +1,7 @@
 # Проект по автоматизированному тестированию на Python
 
-Это финальный тестовый проект из курса - https://stepik.org/course/575/
-В проекте тестируется пробный интернет-магазин книг - http://selenium1py.pythonanywhere.com
+Это финальный тестовый проект из курса - https://stepik.org/course/575/.
+В проекте тестируется пробный интернет-магазин книг - http://selenium1py.pythonanywhere.com.
 Используются библиотеки Pytest и Selenium.
 
 
