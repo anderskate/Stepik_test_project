@@ -1,2 +1,3 @@
 pytest==5.1.3
 selenium==3.14.0
+Faker==2.0.2
